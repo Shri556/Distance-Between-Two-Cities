@@ -50,6 +50,7 @@ def inpt():
 
     return lat1,long1,lat2,long2
 
+###Calculation from https://www.geeksforgeeks.org/program-distance-two-points-earth/
 def calc():
     lat1,long1,lat2,long2 = inpt()
 
